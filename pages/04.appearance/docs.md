@@ -50,7 +50,7 @@ $(".js-programmatic-disable").on("click", function () {
 
 </script>
 
-## Labels
+## Labelss
 
 You can, and should, use a `<label>` with Select2, just like any other `<select>` element.
 
